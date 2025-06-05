@@ -8,7 +8,8 @@ Time spent: **1** hours spent in total
 
 ## Summary
 
-**About Me** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.
+**About Me** is an android app that recreates the common "Hello, World!", 
+to introduce ourselves to the neighborhood squirrel 🐿.  
 
 If I had to describe this project in three (3) emojis, they would be: **👋**
 
@@ -35,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/PDzKh5D" data-context="false" ><a href="//imgur.com/a/PDzKh5D"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/PDzKh5D.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
