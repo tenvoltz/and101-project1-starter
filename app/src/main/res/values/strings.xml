@@ -1,14 +1,17 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
-    <string name="full_name">%s %s</string>
+    <string name="first_name">Tan</string>
+    <string name="last_name">Vo</string>
+    <string name="full_name" formatted="false">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">
+        👋 So about me. I\'m a recent CS graduate at University of Texas at Dallas and am currently
+        pursuing MS CS at the same university. I\'m 21 years old and live in the Garland, TX area.
+    </string>
 
-    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_header_text">Favorite Hobbies:</string>
+    <string name="profile_hobby_first_text">🥇 Drawing ✏️</string>
+    <string name="profile_hobby_second_text">🥈 Gym 🏋️</string>
+    <string name="profile_hobby_third_text">🥉 Video games 🎮</string>
 </resources>
